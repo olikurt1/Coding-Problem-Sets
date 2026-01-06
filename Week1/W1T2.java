@@ -1,5 +1,7 @@
 public class W1T2 {
     public static void main(String[] args){
-        System.out.println("Hello, Ollie");
+        String name = "ollie";
+        int age = 19;
+        System.out.println(name + " is " + age + " years old.");
     }
 }
