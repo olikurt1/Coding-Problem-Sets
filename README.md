@@ -13,3 +13,11 @@ W3T6---
 The inner loop has a end range of what the current x value is because it ensures that the line is only as long as the current row that the outer loop is on which creates the triangle pattern.
 the inner loop is essentially constrained by outer loop where the end range is y<x 
 This would essentially mean the end range is while 1<2 for the first loop.
+
+
+W4T4----
+To reverse a string, create an empty string, loop through the original string and every single loop, change the string to be the part of the string up to the character which the loop is on. 
+
+W4T5----
+the reason that there is recursion is that it has to find the number that came before the parameter and the number before that because it is the sum of the fibonacci value at the given parameter. It drops all the way to the base case because this gives n an actual value as opposed to just being a parameter. and then it adds up the values.
+

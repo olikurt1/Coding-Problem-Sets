@@ -1,4 +1,4 @@
-package Week3;
+
 import java.util.Scanner;
 public class W3T5 {
     public static void main(String[] args){
