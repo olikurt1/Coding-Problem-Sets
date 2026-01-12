@@ -21,3 +21,5 @@ To reverse a string, create an empty string, loop through the original string an
 W4T5----
 the reason that there is recursion is that it has to find the number that came before the parameter and the number before that because it is the sum of the fibonacci value at the given parameter. It drops all the way to the base case because this gives n an actual value as opposed to just being a parameter. and then it adds up the values.
 
+W7Learn----
+An exception is an object describing a problem with some being checked and unchecked with IOException being checked. It has to be thrown or handled at compile time.
